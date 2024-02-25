@@ -42,7 +42,7 @@ function Animacion() {
   ctx.clearRect(0, 0, cw, ch);
   
   ctx.fillStyle ="#777";
-  ctx.fillText("I LOVE YOU MARIA FERNANDA OLIVARES",cx,40);
+  ctx.fillText("I LOVE YOU FER",cx,60);
 
   
   
